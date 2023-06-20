@@ -1,0 +1,30 @@
+_repo: Knock-three-one-two_70944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Fredric
+    alias: Brown, Fred
+    birthdate: 1906
+    deathdate: 1972
+    gutenberg_agent_id: '32063'
+    url: http://www.gutenberg.org/2009/agents/32063
+    wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
+description: ''
+gutenberg_issued: '2023-06-08'
+identifiers:
+  gutenberg: '70944'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000174821&view=1up&seq=7
+pgterms:marc905: 20221126061344brown
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bE. P. Dutton & Co., Inc, $c1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Knock three-one-two
+url: http://www.gutenberg.org/ebooks/70944
