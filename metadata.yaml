@@ -1,5 +1,8 @@
 _repo: Knock-three-one-two_70944
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70944-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Fredric
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32063
     wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70944#Knock-three-one-two
 gutenberg_issued: '2023-06-08'
 identifiers:
   gutenberg: '70944'
